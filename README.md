@@ -71,4 +71,3 @@ I am currently interested in data engineering, cloud applications, backend devel
 
 * **LinkedIn:** [Carl-Fredrik Svensson](https://www.linkedin.com/in/carl-fredrik-svensson/)
 * **Email:** [cfsvensson65@outlook.com](mailto:cfsvensson65@outlook.com)
-* **GitHub:** [Zepronex](https://github.com/Zepronex)
