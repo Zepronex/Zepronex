@@ -8,7 +8,7 @@
 
 I recently completed a BSc in Computer Science with a focus on system development. For my bachelor's thesis at SKF Thailand, I built and evaluated an AI system that converted industrial vibration graphs into structured maintenance data.
 
-I enjoy working across the full data flow—from API integration and validation to transformation, storage, testing, and user-facing applications.
+I enjoy working across the full data flow: from API integration and validation to transformation, storage, testing, and user-facing applications.
 
 ## Tech Stack
 
